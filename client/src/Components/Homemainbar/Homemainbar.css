@@ -1,0 +1,13 @@
+.div-container-1{
+    width: calc( 100% - 30% );
+    float: left;
+    margin: 20px 0px;
+    margin-top: 10%;
+    padding: 12px;
+} 
+
+.div-container-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

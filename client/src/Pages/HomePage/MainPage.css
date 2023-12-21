@@ -1,0 +1,12 @@
+.main-header{
+    padding: auto;
+    line-height: 30px;
+    font-size: 20px;
+}
+.intro-para{
+    width: 100%;
+    /* padding: 20px 20px 0px; */
+    margin: 10px 0px;
+    /* color: white; */
+    word-wrap:inherit;
+}
